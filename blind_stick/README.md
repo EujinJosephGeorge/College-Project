@@ -1,1 +1,2 @@
-<h1>Smart walking stick for the Blind</h1>
+<h1>SWSB</h1>
+Smart Walking Stick for the Blind
